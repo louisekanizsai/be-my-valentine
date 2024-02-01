@@ -14,7 +14,7 @@ const yesBtn = createElement("button", "btn", "yes");
 const noBtn = createElement("button", "btn", "no");
 const img = createElement("img", "img");
 const hearts = createElement("div", "hearts");
-img.src = "https://github.com/louisekanizsai/be-my-valentine/blob/main/images/catwithheart.png";
+img.src = "https://ibb.co/p4FVb1N";
 hearts.append(img);
 const buttonsContainer = document.querySelector(".btns-container");
 buttonsContainer.append(yesBtn, noBtn);
